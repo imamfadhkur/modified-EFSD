@@ -1,0 +1,6 @@
+train: 'C:\Users\imam fadhkur\Documents\S2\#main\semester 2\TD. Visi Komputer\tugas akhir - final project\usulan\yolov7-tiny-cbam\dataset\train'
+val: 'C:\Users\imam fadhkur\Documents\S2\#main\semester 2\TD. Visi Komputer\tugas akhir - final project\usulan\yolov7-tiny-cbam\dataset\valid'
+test: 'C:\Users\imam fadhkur\Documents\S2\#main\semester 2\TD. Visi Komputer\tugas akhir - final project\usulan\yolov7-tiny-cbam\dataset\test'
+
+nc: 2
+names: ['0', '1']
